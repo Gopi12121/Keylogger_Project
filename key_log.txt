@@ -1,0 +1,1 @@
+Key.enterKey.caps_lock'h''e''l''l''o'Key.space'w''o''r''l''d'
